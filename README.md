@@ -1,2 +1,2 @@
 # clone-tabnews
-implementacoes e estudos relacionados ao curso.dev 
+Estudos relacionados ao curso.dev 
